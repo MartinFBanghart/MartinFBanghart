@@ -1,6 +1,6 @@
 Hi, I’m @MartinFBanghart
 
-I am a Data Analytics Masters Student at The George Washington University interested in exploratory data analysis, data pipelines, and machine learning.
+I am a Data Analytics Masters Student at The George Washington University interested in exploratory data analysis and machine learning.
 
 
 <!---
